@@ -1,6 +1,6 @@
 # KolayKus
 
-Kolay kuş oyunu unity platformu kullanılarak c# dilinde geliştirilmiş bir mobil oyundur. Oyunu android hesaplarınıza yükleyebilirsiniz.
+Kolay kuş oyunu unity platformu kullanılarak c# dilinde geliştirilmiş bir mobil oyundur. Oyunu android cihazlarınıza play store üzerinden yükleyebilirsiniz.
 
 # PlayStore
 
